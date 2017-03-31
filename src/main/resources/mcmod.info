@@ -1,0 +1,13 @@
+[
+{
+  "modid": "nocoord",
+  "name": "No Coords",
+  "description": "Removes your coordinates from the debug overlay.",
+  "version": "$version",
+  "mcversion": "$mcversion",
+  "url": "https://www.lomeli12.net/",
+  "credits": "Mod originally by Lomeli12, ported by Vexatos",
+  "updateUrl": "",
+  "authorList": ["Lomeli12", "Vexatos"]
+}
+]
